@@ -1,3 +1,5 @@
+// Remove Duplicates from an Array
+
 function removeDuplicates(arr) {
   let unique = [];
 

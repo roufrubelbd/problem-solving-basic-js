@@ -1,3 +1,5 @@
+// Find the Factorial of a Number
+
 function factorial(num) {
   let result = 1;
 
